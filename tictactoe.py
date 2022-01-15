@@ -1,3 +1,8 @@
+'''CSE 210 - Programming with Classes
+ W02 Prove: Developer - Solo Code Submission
+ Tic-Tac-Toe Game
+ Author: Luis Carlo Romanini Neres'''
+
 #Main function to call the others. 
 def main():
     play_again=""
